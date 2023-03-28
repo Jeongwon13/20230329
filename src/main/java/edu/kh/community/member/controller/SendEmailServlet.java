@@ -45,8 +45,8 @@ public class SendEmailServlet extends HttpServlet {
 		// 2) 앱 비밀번호 생성(메일, 서버컴퓨터 OS) -> 저장해두기 ( queapyfpwuqdpisq )
 		
 		
-		final String smtpEmail = "cs.choijeongwon@gmail.com"; // 이메일
-		final String password = "ommnmgcpqptaohlu"; // 발급 받은 비밀번호
+		final String smtpEmail = " "; // 이메일
+		final String password = " "; // 발급 받은 비밀번호
 		// 메일 옵션 설정
 		Properties props = new Properties();
 		
